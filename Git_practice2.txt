@@ -3,3 +3,5 @@ fsfhsdfsdoifsdoifhsdoifshfoisfihshfois
 sfhosiddfsoidfsdiofsdoifusodiufosifu
 
 Now I'm practicing switching between commits using caret and other special symbols. 
+For this, to grasp it more profound, I need to commit one more time so that
+I could use not only Caret operator.
