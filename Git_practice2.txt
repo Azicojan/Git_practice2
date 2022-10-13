@@ -1,3 +1,5 @@
 sdhjshgsadfhsdoifhsdoifhdoifhsfiosahfsd
 fsfhsdfsdoifsdoifhsdoifshfoisfihshfois
 sfhosiddfsoidfsdiofsdoifusodiufosifu
+
+Now I'm practicing switching between commits using caret and other special symbols. 
